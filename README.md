@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
   <img src="assets/header.svg" width="100%" alt="Tarun R Header" />
 </p>
@@ -161,7 +161,7 @@
 <p align="center"><b>AI, Data Science & Development Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,fastapi&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
   </a>
 </p>
 
@@ -246,4 +246,3 @@
 <p align="center">
   <img src="assets/footer.svg" width="100%" alt="Footer" />
 </p>
-```
